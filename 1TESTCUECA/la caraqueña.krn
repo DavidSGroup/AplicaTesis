@@ -1,0 +1,193 @@
+!!!COM: Nilo Soruco
+!!!OTL: La caraqueña
+**kern
+!!pagebreak:original
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+!LO:TX:t=[quarter]=120
+4.r
+8r
+8r
+16ddLL
+16ddJJ
+=2
+8ddL
+8b
+8aJ
+8gL
+8e
+8gJ
+=3
+((4.b 4.dd
+4b 4dd))
+16ddLL
+16ddJJ
+=4
+8ddL
+8b
+8aJ
+8bL
+8a
+8gJ
+=5
+2.e
+=6
+8dL
+8e
+8gJ
+8bL
+8g
+8bJ
+!!linebreak:original
+=7
+((4.b 4.dd
+4b 4dd))
+16ddLL
+16ddJJ
+=8
+8ddL
+8b
+8aJ
+8bL
+8a
+8gJ
+=9
+4.e
+8r
+4a 4b 4dd
+=10
+4.g 4.b 4.ee
+8r
+4a 4b 4dd#X
+=11
+2.g 2.b 2.ee
+=12!|:
+8b
+4dd
+4b
+8a
+=13
+4g
+8e
+8gL
+8e
+8eJ
+!!linebreak:original
+=14
+4g
+8e
+8gL
+8e
+8gJ
+=15
+2.g 2.b
+=16
+8e 8cc
+4g 4ee
+4f# 4dd
+8b
+=17
+4b 4dd
+8g 8b
+8bL 8dd
+8g 8b
+((8f#J 8dd
+=18
+8f#L 8dd))
+8f# 8a
+8f#J 8a
+4g
+8f#
+=19
+2.e
+=20
+8e 8cc
+4g 4ee
+4f# 4dd
+8b
+=21
+4b 4dd
+8g 8b
+8bL 8dd
+8g 8b
+((8f#J 8dd
+!!linebreak:original
+=22
+8f#L 8dd))
+8f# 8a
+8f#J 8a
+4g
+8f#
+=23
+2.e
+=24:|!
+!LO:TX:a:B:t=Fine
+8.f#L 8.a
+16f#k 16a
+8f#J 8a
+8f# 8a
+4f# 4ee
+=25
+8bL 8ee
+8b 8ee
+8gJ 8b
+8b 8dd
+4g 4b
+=26
+8.f#L 8.a
+16f#k 16a
+8f#J 8a
+8f# 8a
+4f# 4ee
+=27
+2.g 2.b
+=28
+8.f#L 8.a
+16f#k 16a
+8f#J 8a
+8f# 8a
+4f# 4ee
+!!linebreak:original
+=29
+8bL 8ee
+8b 8ee
+8gJ 8b
+8b 8dd
+4g 4b
+=30
+4f# 4dd
+8f# 8a
+4g
+8f#
+=31
+2.e
+=32
+8.eL 8.cc
+16ek 16cc
+8eJ 8cc
+8e 8cc
+4g 4ee
+=33
+8bL 8ee
+8b 8ee
+8gJ 8b
+8b 8dd
+4g 4b
+=34
+4f# 4dd
+8f# 8a
+4g
+8f#
+=35
+8.eL
+16cck
+8bJ
+8aL
+8g
+!LO:TX:a:B:t=        D.S. al Fine
+8f#J
+==
+*-

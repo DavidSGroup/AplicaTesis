@@ -1,0 +1,191 @@
+!!!OTL: Gacela
+**kern
+*I"Guitarra acústica
+*I'Guit. ac.
+!!pagebreak:original
+*clefG2
+*Trd0c0
+*k[b-]
+*F:
+*M6/8
+=1
+!LO:TX:t=[quarter]=120
+8aL
+16b-L
+16ccJ
+8bnJ
+8ccL
+8ee
+(8ggJ
+=2
+8ggL)
+8ee
+8ccJ
+4b-X
+8g
+=3
+((4.f 4.a
+4f 4a))
+8r
+=4
+8aL
+16b-L
+16aJ
+8g#XJ
+8aL
+8cc#X
+(8eeJ
+!!linebreak:original
+=5
+8eeL)
+8cc#X
+8aJ
+4g
+8e
+=6
+((4.d 4.f
+4d 4f))
+8r
+=7:|!
+4.d 4.f
+8r
+4g 4a 4cc#X
+=8
+4.f 4.a 4.dd
+8r
+4g 4a 4cc#X
+=9
+4.f 4.a 4.dd
+8r
+8fL
+8gJ
+!!linebreak:original
+=10!|:
+8.aL
+16g#Xk
+8aJ
+8bn
+4cc
+=11
+((4.g 4.b-
+8gL 8b-))
+8a
+8b-J
+=12
+((4.e 4.g
+8eL 8g))
+8f#X
+8gJ
+=13
+((4.c 4.e
+4c 4e))
+8r
+!!linebreak:original
+=14
+8.b-L 8.dd
+16ak 16cc#X
+8b-J 8dd
+8a 8cc#
+4b- 4dd
+=15
+4a 4cc
+8a 8cc
+8b-L 8dd
+8a 8cc
+8gJ 8bn
+=16
+4f 4a
+8a 8cc
+8b-XL 8dd
+8a 8cc
+8gJ 8bn
+=17
+((4.f 4.a
+4f 4a))
+8r
+!!linebreak:original
+=18
+8.ddL 8.ff
+16cck 16ee
+8b-J 8dd
+8a 8cc#X
+4b- 4dd
+=19
+4f 4a
+8f 8a
+8ddL
+8a
+8gJ
+=20
+!LO:TX:a:B:t=Fine
+((4.d 4.f
+8dL 8f))
+8f
+8gJ
+=21:|!
+((4.d 4.f
+4d 4f))
+8r
+!!linebreak:original
+=22
+8.ccL
+16cck
+8ccJ
+8ccL
+8cc
+8eeJ
+=23
+8.ggL
+16ffk
+8eeJ
+8ddL
+8ee
+8ffJ
+=24
+8ffL
+8cc
+8cc#XJ
+4dd
+8ccn
+=25
+((4.g 4.b-
+8gL 8b-))
+8f
+8gJ
+=26!|:
+8fL 8a
+8f 8a
+((8b-J 8dd
+4b- 4dd))
+8a 8cc
+!!linebreak:original
+=27
+8fL 8a
+8f 8a
+8b-J 8dd
+8a 8cc#X
+4b- 4dd
+=28
+8aL 8cc
+8g 8bn
+8c#XJ 8a
+8c# 8a
+4e 4g
+=29
+((4.d 4.f
+8dL 8f))
+8f
+8gJ
+=30
+((4.d 4.f
+8dL 8f))
+8f
+8gJ
+=31:|!
+4.d 4.f
+8r
+8fL
+!LO:TX:a:B:t=D.S. al Fine
+8gJ
+==
+*-

@@ -1,0 +1,225 @@
+!!!OTL: Sed De Amor
+**kern
+*I"Guitarra acústica
+*I'Guit. ac.
+!!pagebreak:original
+*clefG2
+*Trd0c0
+*k[b-]
+*F:
+*M6/8
+=1
+!LO:TX:t=[quarter]=120
+16aLL
+16dd
+16cc#X
+16ee
+16dd
+16ffJJ
+16eeLL
+16gg
+16ff
+16aa
+16gg
+16bb-JJ
+=2
+(4.aa
+4aa)
+8r
+=3
+8.aaL
+16ggL
+16ee
+16cc#XJJ
+4cc# 4aa
+8ee 8gg
+=4
+8ddL 8ff
+8ee 8gg
+((8ffJ 8aa
+4.ff 4.aa))
+=5
+16aLL
+16dd
+16cc#X
+16ee
+16dd
+16ffJJ
+16eeLL
+16gg
+16ff
+16aa
+16gg
+16bb-JJ
+!!linebreak:original
+=6
+(4.aa
+4aa)
+8r
+=7
+16ggLL
+16bb-
+16aa
+16gg
+16ff
+16aaJJ
+16ggLL
+16ff
+16ee
+16gg
+16ff
+16eeJJ
+=8
+4.dd
+8r
+4g 4a 4cc#X
+=9
+4.f 4.a 4.dd
+8r
+4g 4a 4cc#X
+=10
+4.f 4.a 4.dd
+4r
+8a
+=11!|:
+8.ddL
+16eek
+8ffJ
+8eeL
+8dd
+8ffJ
+=12
+(4.ee
+4ee)
+8a
+!!linebreak:original
+=13
+8.eeL
+16ffk
+8ggJ
+8ffL
+8ee
+8ggJ
+=14
+(8aaL
+8gg
+(8ffJ)
+4.ff)
+=15
+8r
+8b-L 8dd
+8aJ 8cc#X
+(8b- 8dd
+4dd 4ff)
+=16
+8r
+8fL 8a
+8eJ 8g
+8f 8a
+4f 4a 4dd
+=17
+8r
+8fL 8a#X
+8b-J 8dd
+4f 4a#
+8e 8g
+=18
+((4.d 4.f
+4d 4f))
+8r
+=19
+8r
+8b-L 8dd
+8aJ 8cc#X
+8b- 8dd
+4dd 4ff
+!!linebreak:original
+=20
+8r
+8fL 8a
+8eJ 8g
+8f 8a
+4f 4a 4dd
+=21
+8r
+8fL 8a#X
+8b-J 8dd
+4f 4a#
+8e 8g
+=22
+((4.d 4.f
+8d 8f))
+8r
+!LO:TX:a:B:t=Fine
+8a
+=23:|!
+4.d 4.f
+4.r
+=24
+8.aL
+16ak
+8aJ
+8aL
+8a
+8gJ
+=25
+(4.a
+4.a)
+=26
+8.b-L 8.dd
+16b-k 16dd
+8b-J 8dd
+8b-L 8dd
+8b- 8dd
+8ccJ 8ee
+!!linebreak:original
+=27
+(4.dd 4.ff
+4.dd 4.ff)
+=28
+8.ccL 8.ee
+16b-k 16dd
+8aJ 8cc#X
+4b- 4dd
+8a 8ccn
+=29
+4f 4a
+8f 8a
+4a 4cc
+8e 8g
+=30
+((4.f 4.a
+4.f 4.a))
+=31
+8r
+8ddL
+8ccJ
+4a
+8f
+!!linebreak:original
+=32
+4e 4g
+((8c#X 8e
+4c#X 4e))
+8r
+=33
+8.eL
+16fk
+8gJ
+8aL
+8bn
+(8cc#XJ
+=34
+8ccL)
+8cc#X
+8ddJ
+4a
+8g
+=35
+4.f
+8f
+8r
+!LO:TX:a:B:t=D.S. al Fine
+8a
+==
+*-

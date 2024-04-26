@@ -1,0 +1,204 @@
+!!!OTL: Paso,Paso palomita
+**kern
+!!pagebreak:original
+*clefG2
+*k[]
+*C:
+*M6/8
+!LO:TX:t=[quarter]=120
+16aLL
+16b
+16cc
+16ddJJ
+=1
+8eeL
+8aa
+8aa-XJ
+8ggL
+8gg-X
+8ffJ
+=2
+(4.ee
+8ee)
+4r
+=3
+8r
+8g#XL 8b
+8g#J 8b
+4g# 4ee
+8b 8dd
+=4
+8aL 8cc
+8b 8dd
+((8ccJ 8ee
+4.cc 4.ee))
+!!linebreak:original
+=5!|:
+8.ffL 8.aa
+16ffk 16ccc
+8ffJ 8aa
+8ff 8ccc
+4ff 4aa
+=6
+8.ccL 8.ee
+16ddk 16gg
+8ccJ 8ee
+8ee 8gg
+4cc 4ee
+=7
+8r
+8g#XL 8b
+8g#J 8b
+4g# 4ee
+8g# 8dd
+=8
+8aL 8cc
+8b 8dd
+((8ccJ 8ee
+4.cc 4.ee))
+=9:|!
+8.gg#XL 8.bb
+16gg#k 16bb
+8gg#J 8bb
+8gg# 8bb
+4ee 4gg#
+!!linebreak:original
+=10
+((4.cc 4.ee 4.aa
+8cc 8ee 8aa))
+4dd 4ee 4gg#X
+=11
+((4.cc 4.ee 4.aa
+8cc 8ee 8aa))
+4dd 4ee 4gg#X
+=12
+((4.cc 4.ee 4.aa
+8cc 8ee 8aa))
+4r
+=13!|:
+8.aL 8.cc
+16dk 16f
+8aJ 8cc
+8fL 8a
+8a 8cc
+8fJ 8a
+=14
+4a 4cc
+(8f 8a
+4.f 4.a)
+!!linebreak:original
+=15
+8gL 8b
+8g 8b
+8gJ 8b
+4a 4cc
+8b 8dd
+=16
+((4.cc 4.ee
+4cc 4ee))
+8r
+=17
+8.bL 8.dd
+16bk 16dd
+8bJ 8dd
+8bL 8dd
+8b 8dd
+8gJ 8b
+=18
+4ee 4gg
+((8cc 8ee
+4.cc 4.ee
+=19
+8gg#X
+4aa
+8cc 8ee
+4b 4dd
+!!linebreak:original
+=20
+((4.a 4.cc
+4a 4cc))
+8r
+=21
+8.bL 8.dd
+16bk 16dd
+8bJ 8dd
+8bL 8dd
+8b 8dd
+8gJ 8b
+=22
+4ee 4gg
+((8cc 8ee
+4.cc 4.ee
+=23
+8ee 8gg#X
+4ff 4aa
+8cc 8ee
+4b 4dd
+=24
+((4.a 4.cc
+!LO:TX:a:B:t=Fine
+4a 4cc))
+8r
+!!linebreak:original
+=25:|!
+(4.ff 4.aa
+8ffL 8aa)
+8gg 8bb
+8ffJ 8aa
+=26
+(4.ee 4.gg#X
+8ee 8gg#)
+4r
+=27
+(4.dd 4.ff
+8ddL 8ff)
+8cc 8ee
+8bJ 8dd
+=28
+(4.cc 4.ee
+8cc 8ee)
+4r
+=29
+8.bL 8.dd
+16bk 16dd
+8bJ 8dd
+8bL 8dd
+8b 8dd
+8gJ 8b
+=30
+4ee 4gg
+((8cc 8ee
+4.cc 4.ee
+!!linebreak:original
+=31
+8ee 8gg#X
+4ff 4aa
+8cc 8ee
+4b 4dd
+=32
+((4.a 4.cc
+4a 4cc))
+8r
+=33
+8.bL 8.dd
+16bk 16dd
+8bJ 8dd
+8bL 8dd
+8b 8dd
+8gJ 8b
+=34
+4ee 4gg
+((8cc 8ee
+4.cc 4.ee
+=35
+8ee 8gg#X
+4ff 4aa
+8cc 8ee
+4b 4dd
+=36
+((4.a 4.cc
+4a 4cc))
+!LO:TX:b:B:t=D.S. al Fine
+8r
+==
+*-
